@@ -19,9 +19,9 @@ ___
   
 1.  Code  examples:
 ```
-hg
+module.exports = function warmup(temperature) { return 9/5*temperature+32; };
 ```
 1.  Experience
-1.  Education
+1.  Education:
   * The Rolling Scopes School**
-1.  English
+1.  English: very low level(
