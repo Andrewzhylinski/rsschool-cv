@@ -16,3 +16,12 @@ ___
   *  **CSS;**
   *  **Git;**
   *  **Markdown.**
+  
+1.  Code  examples:
+```
+hg
+```
+1.  Experience
+1.  Education
+  *The Rolling Scopes School
+1.  English
