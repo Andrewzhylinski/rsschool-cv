@@ -10,3 +10,9 @@ ___
  * Learning new technologies
  * Making products better
  * Teamwork
+
+ 1.  Skills:
+  *  **HTML;**
+  *  **CSS;**
+  *  **Git;**
+  *  **Markdown.**
