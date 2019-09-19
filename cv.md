@@ -23,5 +23,5 @@ hg
 ```
 1.  Experience
 1.  Education
-  *The Rolling Scopes School
+  * The Rolling Scopes School**
 1.  English
