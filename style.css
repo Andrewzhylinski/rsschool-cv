@@ -11,15 +11,16 @@
     } 
 .header-section {
     display: flex;
-    align-items: center;    
+    align-items: center;
+    margin: 20px 10px;    
     }
 .foto {
     display: flex;
     width: 20%;   
     }
-.nav {
+/*.nav {
     width: 80%;
-}    
+}*/    
 .nav-list,
 .name {
     display: flex;
@@ -28,11 +29,14 @@
 ul.nav-list {
     width: 100%;
     margin: auto; 
-    list-style: none;   
+    list-style: none;
+    font-size: 14px;
+    font-weight: 600;
+    text-transform: uppercase;   
     }
 .about_me {
-    font-size: 18px;
-    font-weight: 400;
+    font-size: 15px;
+    font-weight: 600;
     margin-bottom: 20px;
     text-align: justify;
 }
@@ -51,7 +55,7 @@ p {
     }
  footer {
     height: 76px;
-    background-color: #2D3368;
+    background-color: #0f4d7b;
     opacity: 0.8;
     
   }
@@ -65,7 +69,7 @@ p {
  .copyright {
     font-size: 12px;
     letter-spacing: -0.005rem;
-    color: #9297ac;
+    color: #000000;
     margin-top: 30px;  
   }  
   .social-media {
